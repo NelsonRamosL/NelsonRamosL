@@ -5,7 +5,7 @@ Mi nombre es Nelson Edgardo Ramos Lopez
 Te invito a visitar mi GitHub, en el encontraras ejercicios de cuando me capacite por bootcamp y mis últimos desarrollos estan enfocados en soluciones para empresas. 
 
 
-Skills: JAVASCRIPT / HTML / CSS / BOOSTRAPS / NODE / EXPRESS
+Skills: JAVASCRIPT / HTML / PHP / CSS / BOOTSTRAP / NODE / EXPRESS
 
 - 🔭 I’m currently working on this page. 
 
